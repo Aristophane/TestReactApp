@@ -1,0 +1,10 @@
+.buttonContainer{
+    display: flex;
+    flex: row;
+    width: 100%;
+    justify-content: center;
+    gap: 1rem;
+}
+.buttonContainer > button{
+    height: 2rem;
+}
